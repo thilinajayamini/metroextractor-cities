@@ -619,6 +619,22 @@
                         "right": "130.644"
                     }
                 },
+                "gampaha_sri-lanka": {
+                    "bbox": {
+                        "top": "7.1246",
+                        "left": "79.9492",
+                        "bottom": "7.0576",
+                        "right": "80.0411"
+                    }
+                },
+                "galle_sri-lanka": {
+                    "bbox": {
+                        "top": "6.0941",
+                        "left": "80.1593",
+                        "bottom": "6.0218",
+                        "right": "80.2495"
+                    }
+                },
                 "guangzhou_china": {
                     "bbox": {
                         "top": "23.981",
@@ -713,6 +729,14 @@
                         "left": "126.127",
                         "bottom": "33.107",
                         "right": "126.987"
+                    }
+                },
+                "kandy_sri-lanka": {
+                    "bbox": {
+                        "top": "7.3337",
+                        "left": "80.5832",
+                        "bottom": "80.6654",
+                        "right": "80.2495"
                     }
                 },
                 "kaohsiung_taiwan": {
@@ -849,6 +873,14 @@
                         "left": "96.048",
                         "bottom": "21.871",
                         "right": "96.150"
+                    }
+                },
+                "matara_sri-lanka": {
+                    "bbox": {
+                        "top": "5.9646",
+                        "left": "80.5140",
+                        "bottom": "5.9349",
+                        "right": "80.5663"
                     }
                 },
                 "moscow_russia": {
